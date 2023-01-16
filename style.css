@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(209, 204, 212);
+}
+
+
+.click{
+
+    width:10%;
+    height:40px;
+    font-size: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    background-color: rgb(53, 14, 88);
+    transition: 0.5s;
+    position: relative;
+
+    
+
+}
+
+.click:hover{
+    background-color: rgb(15, 170, 15);
+    width:15%;
+    height:50px;
+    
+
+}
+
+.click:active{
+    background-color: black;
+}
+.pages{
+    color:aqua;
+    outline: none;
+    color: beige;
+    
+}
+
+.p1intro{
+    color:green
+}
+
+#testid{
+    color:brown;
+    font-size: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+/* prosta vtestav ra*/
+
+.square{
+    width: 300px;
+    height: 300px;
+    border: 3px solid brown;
+    background-color: red;
+    
+}
+.circle{
+    height: 500px;
+    width: 300px;
+    background-color: rgb(3, 3, 41);
+    border-radius: 50%;
+
+}
+
+.behe{
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+.cont{
+    width:  300px;
+    height: 300px;
+    
+}
